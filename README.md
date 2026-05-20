@@ -108,12 +108,21 @@ mindmap
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Arif-kemal&color=58a6ff&style=flat-square&label=Profil+Görüntülenme)
+  <img src="https://komarev.com/ghpvc/?username=Arif-kemal&color=58a6ff&style=flat-square&label=Profil+Görüntülenme" alt="Profile Views" />
 
-<div align="center">
-
-[![Günün Sözü](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=border&layout=default)](https://github.com/Arif-kemal)
-
-</div>
+  <br><br> <a href="https://github.com/Arif-kemal">
+    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=border&layout=default" alt="Günün Sözü" />
+  </a>
 
 </div>
+---
+
+## ♟️ Benimle Satranç Oyna!
+
+Herhangi bir hamleye tıkla, Issue açılır, otomatik güncellenır!
+
+<!-- BEGIN CHESS BOARD -->
+<!-- FEN: rnbqkbnr/pppppppp/8/8/8/8/PPPPPPPP/RNBQKBNR w KQkq - 0 1 -->
+<!-- END CHESS BOARD -->
+
+[🆕 Yeni Oyun Başlat](https://github.com/Arif-kemal/Arif-kemal/issues/new?title=Chess:+Start&body=Yeni+oyun+baslat)
