@@ -52,10 +52,12 @@
 
 <div align="center">
 
+---
 ### 🏅 Kazanılan Resmi GitHub Başarımları
 <img src="https://github-badges.vercel.app/api/badges/Arif-kemal?compact=true" alt="Arif Kemal GitHub Badges" />
 
 </div>
+
 ---
 
 ## 📊 GitHub İstatistiklerim
