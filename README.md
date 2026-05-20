@@ -91,8 +91,6 @@
 
 ## 🎯 Odak Alanlarım
 
-<div align="center">
-
 ```mermaid
 mindmap
   root((Arif Kemal))
@@ -108,9 +106,6 @@ mindmap
       C++ ile LeetCode
       Veri Yapıları
       Mülakat Hazırlığı
-```
-
-</div>
 
 ---
 
@@ -118,8 +113,5 @@ mindmap
 
   <img src="https://komarev.com/ghpvc/?username=Arif-kemal&color=58a6ff&style=flat-square&label=Profil+Görüntülenme" alt="Profile Views" />
 
-  <br><br> <a href="https://github.com/Arif-kemal">
-    <img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=border&layout=default" alt="Günün Sözü" />
-  </a>
 
 </div>
