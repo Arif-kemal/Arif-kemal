@@ -53,11 +53,9 @@
 <div align="center">
 
 ---
-### 🏅 Kazanılan Resmi GitHub Başarımları
-<img src="https://github-badges.vercel.app/api/badges/Arif-kemal?compact=true" alt="Arif Kemal GitHub Badges" />
+## 🏅 GitHub Başarımları
 
-</div>
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=Arif-kemal&theme=tokyonight&no-frame=true&row=1)](https://github.com/Arif-kemal)
 ---
 
 ## 📊 GitHub İstatistiklerim
