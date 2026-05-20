@@ -92,6 +92,7 @@
 ## 🎯 Odak Alanlarım
 
 ```mermaid
+%%{init: {'theme': 'dark', 'themeVariables': { 'fontSize': '16px' }}}%%
 mindmap
   root((Arif Kemal))
     Oyun Geliştirme
