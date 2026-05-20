@@ -110,6 +110,10 @@ mindmap
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Arif-kemal&color=58a6ff&style=flat-square&label=Profil+Görüntülenme)
 
-*"First, solve the problem. Then, write the code." – John Johnson*
+<div align="center">
+
+[![Günün Sözü](https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=border&layout=default)](https://github.com/Arif-kemal)
+
+</div>
 
 </div>
