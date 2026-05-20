@@ -53,10 +53,6 @@
 <div align="center">
 
 ---
-## 🏅 GitHub Başarımları
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Arif-kemal&theme=tokyonight&no-frame=true&row=1)](https://github.com/Arif-kemal)
----
 
 ## 📊 GitHub İstatistiklerim
 
