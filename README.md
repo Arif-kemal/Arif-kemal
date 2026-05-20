@@ -71,7 +71,12 @@
   </a>
 
 </div>
+<div align="center">
 
+  #### 📈 Haftalık Kodlama Tempom
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arif-kemal&theme=tokyo-night&hide_border=true" alt="Arif Kemal Activity Graph" />
+
+</div>
 ---
 
 ## 🚀 Öne Çıkan Projeler
