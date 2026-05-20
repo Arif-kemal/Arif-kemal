@@ -43,6 +43,14 @@
 </div>
 
 ---
+<div align="center">
+
+### 🏆 GitHub Başarı Kupalarım
+[![Arif's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Arif-kemal&theme=tokyonight&no-bg=true&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 
 ## 📊 GitHub İstatistiklerim
 
