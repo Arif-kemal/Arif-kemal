@@ -91,11 +91,26 @@
 
 ## 🎯 Odak Alanlarım
 
-| 🎮 Oyun Geliştirme | 🤖 Yapay Zeka | ⚙️ Algoritmalar |
-|---|---|---|
-| Canvas API | Doğal Dil İşleme | C++ ile LeetCode |
-| Vanilla JS | Duygu Analizi | Veri Yapıları |
-| 2D Platform Mekanikleri | Python Kütüphaneleri | Mülakat Hazırlığı |
+<div align="center">
+
+```mermaid
+mindmap
+  root((Arif Kemal))
+    Oyun Geliştirme
+      Canvas API
+      Vanilla JS
+      2D Platform Mekanikleri
+    Yapay Zeka
+      Doğal Dil İşleme
+      Duygu Analizi
+      Python Kütüphaneleri
+    Algoritmalar
+      C++ ile LeetCode
+      Veri Yapıları
+      Mülakat Hazırlığı
+```
+
+</div>
 
 ---
 
